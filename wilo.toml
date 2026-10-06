@@ -1,0 +1,23 @@
+default-season = "2026"
+
+[pool]
+players = [
+    "Darcy",
+    "Dave",
+    "Elmer",
+    "Eric",
+    "Fergus",
+    "Graham",
+    "Ian",
+    "John Z",
+    "Johnny Mo",
+    "Mike",
+]
+points = [
+  2, 2, 2, 2, 2, 2,
+  3, 3, 3, 3, 3, 3,
+  4, 4, 4, 4, 4,
+]
+
+[seasons.2026]
+data-dir = "seasons/2026"

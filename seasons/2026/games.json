@@ -65,22 +65,22 @@
   "4": {
     "byes": [],
     "games": [
-      {"away": "PIT", "home": "CLE", "score": null},
-      {"away": "IND", "home": "WAS", "score": null},
-      {"away": "TEN", "home": "BAL", "score": null},
-      {"away": "NE", "home": "BUF", "score": null},
-      {"away": "NYJ", "home": "CHI", "score": null},
-      {"away": "JAX", "home": "CIN", "score": null},
-      {"away": "DAL", "home": "HOU", "score": null},
-      {"away": "ARI", "home": "NYG", "score": null},
-      {"away": "LAR", "home": "PHI", "score": null},
-      {"away": "GB", "home": "TB", "score": null},
-      {"away": "MIA", "home": "MIN", "score": null},
-      {"away": "KC", "home": "LV", "score": null},
-      {"away": "LAC", "home": "SEA", "score": null},
-      {"away": "DEN", "home": "SF", "score": null},
-      {"away": "DET", "home": "CAR", "score": null},
-      {"away": "ATL", "home": "NO", "score": null}
+      {"away": "PIT", "home": "CLE", "score": [24, 27]},
+      {"away": "IND", "home": "WAS", "score": [30, 13]},
+      {"away": "TEN", "home": "BAL", "score": [18, 24]},
+      {"away": "NE", "home": "BUF", "score": [29, 26]},
+      {"away": "NYJ", "home": "CHI", "score": [12, 23]},
+      {"away": "JAX", "home": "CIN", "score": [22, 17]},
+      {"away": "DAL", "home": "HOU", "score": [34, 30]},
+      {"away": "ARI", "home": "NYG", "score": [24, 36]},
+      {"away": "LAR", "home": "PHI", "score": [24, 20]},
+      {"away": "GB", "home": "TB", "score": [17, 14]},
+      {"away": "MIA", "home": "MIN", "score": [10, 15]},
+      {"away": "KC", "home": "LV", "score": [30, 27]},
+      {"away": "LAC", "home": "SEA", "score": [23, 30]},
+      {"away": "DEN", "home": "SF", "score": [14, 24]},
+      {"away": "DET", "home": "CAR", "score": [26, 32]},
+      {"away": "ATL", "home": "NO", "score": [45, 24]}
     ]
   },
   "5": {

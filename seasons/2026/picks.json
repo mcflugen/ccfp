@@ -39,13 +39,13 @@
     "Darcy": {"winner": null, "loser": null},
     "Dave": {"winner": null, "loser": null},
     "Elmer": {"winner": null, "loser": null},
-    "Eric": {"winner": null, "loser": null},
+    "Eric": {"winner": "MIN", "loser": "LAC"},
     "Fergus": {"winner": null, "loser": null},
     "Graham": {"winner": null, "loser": null},
     "Ian": {"winner": null, "loser": null},
     "John Z": {"winner": null, "loser": null},
     "Johnny Mo": {"winner": null, "loser": null},
-    "Mike": {"winner": null, "loser": null}
+    "Mike": {"winner": "MIN", "loser": "BYE"}
   },
   "5": {
     "Darcy": {"winner": null, "loser": null},

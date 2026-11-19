@@ -96,16 +96,16 @@
     "Mike": {"winner": "NE", "loser": "TEN"}
   },
   "9": {
-    "Darcy": {"winner": null, "loser": null},
-    "Dave": {"winner": null, "loser": null},
-    "Elmer": {"winner": null, "loser": null},
-    "Eric": {"winner": null, "loser": null},
-    "Fergus": {"winner": null, "loser": null},
-    "Graham": {"winner": null, "loser": null},
-    "Ian": {"winner": null, "loser": null},
-    "John Z": {"winner": null, "loser": null},
-    "Johnny Mo": {"winner": null, "loser": null},
-    "Mike": {"winner": null, "loser": null}
+    "Darcy": {"winner": "DET", "loser": "LV"},
+    "Dave": {"winner": "JAX", "loser": "BAL"},
+    "Elmer": {"winner": "HOU", "loser": "WAS"},
+    "Eric": {"winner": "SEA", "loser": "LV"},
+    "Fergus": {"winner": "KC", "loser": "LV"},
+    "Graham": {"winner": "SEA", "loser": "NYJ"},
+    "Ian": {"winner": "KC", "loser": "LV"},
+    "John Z": {"winner": "JAX", "loser": "BAL"},
+    "Johnny Mo": {"winner": "SEA", "loser": "LV"},
+    "Mike": {"winner": "DET", "loser": "LV"}
   },
   "10": {
     "Darcy": {"winner": null, "loser": null},
